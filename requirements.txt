@@ -1,0 +1,4 @@
+
+requests~=2.27.1
+yadisk~=1.2.15
+tqdm~=4.62.3
